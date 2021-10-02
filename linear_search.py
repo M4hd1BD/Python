@@ -1,3 +1,5 @@
+#Simple code for linear search
+
 list = [int (x) for x in input().split()]
 l = len(list)
 n = int(input("Enter the number you want to search: "))
